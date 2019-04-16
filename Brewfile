@@ -98,6 +98,7 @@ brew "whois"
 brew "yarn"
 brew "zlib"
 brew "zsh"
+brew "shiftit"
 
 # Desktop apps to install via Cask
 cask "ableton-live-standard"
