@@ -161,3 +161,4 @@ mas "Skitch", id: 425955336
 mas "Spark", id: 1176895641
 mas "Textual 7", id: 1262957439
 mas "WhatsApp Desktop", id: 1147396723
+mas "Flycut (Clipboard manager)", id: 442160987
