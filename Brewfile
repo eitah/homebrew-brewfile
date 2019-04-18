@@ -98,7 +98,8 @@ brew "whois"
 brew "yarn"
 brew "zlib"
 brew "zsh"
-brew "shiftit"
+brew "shiftit" # moves windows around automatically
+brew "autojump" # moves to a directory of choice once visited, may need to be enabled if using oh my zsh
 
 # Desktop apps to install via Cask
 cask "ableton-live-standard"
