@@ -147,6 +147,7 @@ cask "viscosity"
 cask "visual-studio-code"
 cask "vmware-fusion"
 cask "zoomus"
+cask "skitch" #annotates screenshots in a useful way.
 
 # Desktop apps to install via Mac App Store. Numeric ID is found via the app store "copy link" command and everything following the id section of the url. 
 mas "1Password", id: 443987910
