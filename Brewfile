@@ -100,6 +100,7 @@ brew "zlib"
 brew "zsh"
 brew "shiftit" # moves windows around automatically
 brew "autojump" # moves to a directory of choice once visited, may need to be enabled if using oh my zsh
+brew "scala" # allows you to run scala apps
 
 # Desktop apps to install via Cask
 cask "ableton-live-standard"
