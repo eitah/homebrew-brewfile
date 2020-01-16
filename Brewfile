@@ -130,7 +130,7 @@ cask "keybase"
 cask "microsoft-office"
 cask "minikube"
 cask "osxfuse"
-cask "pritunl"
+# cask "pritunl" #disabled bc its really annoying to uninstall
 cask "pycharm"
 cask "quicken"
 cask "screenflow"
